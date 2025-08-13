@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# Raw or large datasets
+datasets/raw/
+*.zip
+*.tar
+*.gz
