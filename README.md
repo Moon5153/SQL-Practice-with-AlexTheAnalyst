@@ -13,7 +13,9 @@ This repository contains my SQL practice scripts following the Alex The Analyst 
 - [x] 04 — CASE Statements
 - [x] 05 — Subqueries
 - [x] 06 — Window Functions
+- [x] 07 - CTEs
   .....
+
 
 
 
