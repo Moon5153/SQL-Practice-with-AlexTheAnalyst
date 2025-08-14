@@ -14,7 +14,11 @@ This repository contains my SQL practice scripts following the Alex The Analyst 
 - [x] 05 — Subqueries
 - [x] 06 — Window Functions
 - [x] 07 - CTEs
-  .....
+- [x] 08 - Temp Tables
+- [x] 09 - Stored Procedures
+- [x] 10 - Triggers and Events
+
+
 
 
 
